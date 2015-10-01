@@ -1,0 +1,39 @@
+DAT-DC-9/code/00_python_intermediate_workshop.py:- dictionary lookup time is constant regardless of dictionary size
+DAT-DC-9/code/00_python_intermediate_workshop.py:- dictionary keys must be unique (each word is only defined once)
+DAT-DC-9/code/00_python_intermediate_workshop.py:# create a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:# examine a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:# modify a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:# accessing a list element within a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:r.text          # looks like a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:type(r.json())  # JSON can be represented as a dictionary
+DAT-DC-9/code/00_python_intermediate_workshop.py:top = r.json()  # store that dictionary
+DAT-DC-9/code/02_command_line.md:3. Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT7 repo.
+DAT-DC-9/code/02_command_line.md:3. `grep -ir 'dictionary' . | wc -l` will count the number of lines in which the word 'dictionary' appears, which is a good approximation of the number of occurrences.
+DAT-DC-9/code/03_file_reading.py:4. BONUS: Create a dictionary in which the key is the airline name (without the star)
+DAT-DC-9/code/03_python_homework_chipotle.py:PART 6: Create a dictionary in which the keys represent chip orders and
+DAT-DC-9/code/03_python_homework_chipotle.py:# start with an empty dictionary
+DAT-DC-9/code/03_python_homework_chipotle.py:# if chip order is not in dictionary, then add a new key/value pair
+DAT-DC-9/code/03_python_homework_chipotle.py:# if chip order is already in dictionary, then update the value for that key
+DAT-DC-9/code/04_pandas.py:    data dictionary: http://files.grouplens.org/datasets/movielens/ml-100k-README.txt
+DAT-DC-9/code/04_pandas.py:# create a DataFrame from a dictionary
+DAT-DC-9/code/07_api.py:# decode the JSON response body into a dictionary
+DAT-DC-9/code/07_api.py:# extracting the year from the dictionary
+DAT-DC-9/code/07_web_scraping.py:First, define a function that accepts an IMDb ID and returns a dictionary of
+DAT-DC-9/code/07_web_scraping.py:a list in which each element is a dictionary of movie information.
+DAT-DC-9/code/07_web_scraping.py:# define a function that accepts an IMDb ID and returns a dictionary of movie information
+DAT-DC-9/code/10_yelp_reviews.py:# each row is decoded into a dictionary using using json.loads()
+DAT-DC-9/code/15_natural_language_processing_nb.py:# - **Notes:** Uses a dictionary-based approach (slower than stemming)
+DAT-DC-9/code/15_natural_language_processing_nb.py:    # create a dictionary of words and their TF-IDF scores
+DAT-DC-9/code/19_advanced_sklearn.py:DATA DICTIONARY: https://www.kaggle.com/c/titanic-gettingStarted/data
+DAT-DC-9/code/19_advanced_sklearn.py:DATA DICTIONARY: http://archive.ics.uci.edu/ml/datasets/Wine
+DAT-DC-9/code/19_advanced_sklearn.py:DATA DICTIONARY: http://archive.ics.uci.edu/ml/datasets/Wine
+DAT-DC-9/data/sms.tsv:ham	There generally isn't one. It's an uncountable noun - u in the dictionary. pieces of research?
+DAT-DC-9/data/sms.tsv:ham	1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand.. Its interesting..:)
+DAT-DC-9/data/sms.tsv:ham	1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand.. Its interesting..:)
+DAT-DC-9/data/sms.tsv:ham	1) Go to write msg 2) Put on Dictionary mode 3)Cover the screen with hand, 4)Press  &lt;#&gt; . 5)Gently remove Ur hand.. Its interesting..:)
+DAT-DC-9/data/yelp.csv:    Our photographer was wonderful. She seemed to enjoy her job and have fun with client's ideas. However the person who helped us pick out which cards to choose was not having any of it. If you looked up awkward in the dictionary and smacked them upside the head that's what it felt like. Her sheer agony of working there oozed out from her forced smile. 
+DAT-DC-9/data/yelp.json:{"votes": {"funny": 1, "useful": 2, "cool": 1}, "user_id": "RwVaQNP1Ag-Seu3U9quGAg", "review_id": "6jV77Bs_Vu_rHkdUxu9JLQ", "stars": 3, "date": "2011-02-23", "text": "This review is for the JCPenny portrait studio responsible for the \"Christmas Blessings\" Christmas card that graced my family's and co-worker's mailboxes this past holiday season. \n\n    My girlfriend and I were going for a \"Step Brothers\" pose so we had to look the part. I guess the look won't be in any Vogue or GQ magazine this year. No, you'll have to go back to the time when Circus Magazine was popular and when mom and dad went to key parties. \n    \n    Our photographer was wonderful. She seemed to enjoy her job and have fun with client's ideas. However the person who helped us pick out which cards to choose was not having any of it. If you looked up awkward in the dictionary and smacked them upside the head that's what it felt like. Her sheer agony of working there oozed out from her forced smile. \n\n   Anyways, I'll just say that I am damn happy I had a coupon for a $30 package which included two 8x10s of different poses and a whompin' helping of greeting cards. A package that retails at about $170. \n\n   And no, even if you pay that price,  a happy ending is not included.", "type": "review", "business_id": "kwq3bK7BzPKLwXKqVRztHg"}
+DAT-DC-9/notebooks/15_natural_language_processing.ipynb:      "- **Notes:** Uses a dictionary-based approach (slower than stemming)"
+DAT-DC-9/notebooks/15_natural_language_processing.ipynb:      "    # create a dictionary of words and their TF-IDF scores\n",
+DAT-DC-9/project/README.md:* **Data dictionary (aka "code book"):** description of each variable, including units
+DAT-DC-9/readme.md:2. Count the number of occurrences of the word 'dictionary' (regardless of case) across all files in the DAT9 repo.
